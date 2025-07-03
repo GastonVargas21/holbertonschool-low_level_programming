@@ -1,13 +1,11 @@
 #include <stdio.h>
 
 	int main(void)
-
 	/**
- * main - Imprime el tamaño de varios tipos en la computadora
+ * main - Prints the size of various types on the computer
  *
- * Return: Siempre 0 (success)
+ * Return: Always 0 (Success)
  */
-
 {
 	printf("Size of a char: %d byte(s)\n", sizeof(char));
 	printf("Size of an int: %d byte(s)\n", sizeof(int));
