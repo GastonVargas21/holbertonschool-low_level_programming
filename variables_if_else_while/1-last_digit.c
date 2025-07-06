@@ -20,19 +20,19 @@ int main(void)
 
 	last_digit = n % 10;
 
-	printf("El último dígito de %d es %d ", n, last_digit);
+	printf("Last digit of %d is %d ", n, last_digit);
 
 	if (last_digit > 5)
 	{
-		printf("y es mayor que 5\n");
+		printf("and is greater than 5\n");
 	}
 	else if (last_digit == 0)
 	{
-		printf("y es 0\n");
+		printf("and is 0\n");
 	}
 	else
 	{
-		printf("y es menor que 6 y distinto de 0\n");
+		printf("and is less than 6 and not 0\n");
 	}
 
 	return (0);
