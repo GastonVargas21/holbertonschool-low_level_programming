@@ -6,7 +6,7 @@
  * main - main function that runs the program
  *
  * This program prints the last digit of a randomly generated number
- * and tells whether it is greater than 5, equal to 0, or less than 6 and not 0.
+ * and tells whether it is greater than 5,equal to 0, or less than 6 and not 0.
  *
  * Return: 0 if the program ends successfully
  */
